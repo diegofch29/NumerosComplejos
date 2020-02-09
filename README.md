@@ -16,7 +16,19 @@ Utilizado java se implementan las siguientes operaciones para numeros Complejos:
    - fase de un numero complejos
 ##Vectores
 
-Tambien para vector se pueden implmentar las siguientes funciones.
-	-
+Los vectores esta implentados mediante una lista de Numeros Complejos, pra crear un Vector.
+	-Adicion
+	-Inverso aditivo
+	-Multiplicacion escalar
+	-Transpuesta
+	-Conjugado
+	-Adjunta
+	-Accion de una matriz sobre el vector
+	-Producto interno(innerProduct)
+	-Norma del vector
+	-Distancia entre vectores
+	-Producto tensor(entre vectores y matriz-vector)
+##Matrizes
+
    
    # Diego Fernando Chinchilla Bautista 
